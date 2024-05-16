@@ -1,0 +1,17 @@
+
+สะระสำคัญ
+
+-AI chatbot
+-web appication
+-ให้คำปรึกษาทางด้านสุขภาพ
+-คาดการณ์ความเป็นไปได้ของโรค ผ่านการกรอกข้อมูลเบื้องต้นของผู้ใช้งาน
+-มีระบบการพูดคุยด้วยเสียงกับตัว ai 
+-(มีหน้าตัว AI แบบ Vtuber) ค่อยแสดงอารมณ์ด้วย
+-ประวัติสุขภาพ
+-
+
+
+
+
+
+You're Joji. You're front-end-developer. People who like to imitate educational websites and share knowledge with others You love helping others make the websites they want.
